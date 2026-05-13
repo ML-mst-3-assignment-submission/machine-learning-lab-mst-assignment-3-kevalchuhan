@@ -114,7 +114,7 @@ fake-news-detector/
 
 ```bash
 # 1. Clone the repository
-git clone https://huggingface.co/spaces/ANSHULmavi07/fake-news-detector
+git clone https://huggingface.co/spaces/kevalchuhan76/fake-news-detector
 cd fake-news-detector
 
 # 2. Install dependencies
@@ -152,8 +152,8 @@ nltk
 
 ## 👨‍💻 Author
 
-**Anshul Mavi**
-- 🤗 Hugging Face: [@ANSHULmavi07](https://huggingface.co/ANSHULmavi07)
+**keval chouhan**
+- 🤗 Hugging Face: https://huggingface.co/spaces/kevalchuhan76/fake-news-detector
 
 ---
 
